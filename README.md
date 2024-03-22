@@ -16,10 +16,10 @@ Descrição: O ProFIS é um programa com 120 vagas cujo ingresso é com base nas
 
 - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, UNICAMP - (Concluído)
 
-<code><img height="40" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp"></code>
-<code><img height="40" alt="SQL" src="https://github.com/karlaklima/Image/blob/main/sql%20image.jpeg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
-<code><img height="40" alt="R" src="https://github.com/karlaklima/Image/raw/main/R" class="Link__StyledLink-sc-14289xe-0 dvQLCc"></code>
-<code><img height="40" alt="Power BI" src="https://github.com/karlaklima/Image/blob/main/power%20BI%20.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
+<code><img height="25" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp"></code>
+<code><img height="25" alt="SQL" src="https://github.com/karlaklima/Image/blob/main/sql%20image.jpeg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
+<code><img height="25" alt="R" src="https://github.com/karlaklima/Image/raw/main/R" class="Link__StyledLink-sc-14289xe-0 dvQLCc"></code>
+<code><img height="25" alt="Power BI" src="https://github.com/karlaklima/Image/blob/main/power%20BI%20.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
 
 <!--
 **karlaklima/Karlaklima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
