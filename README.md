@@ -11,9 +11,6 @@ Natural de Campinas-SP, com formação acadêmica diversificada, o que permite s
 - Química Tecnológica (Industrial) - UNICAMP (Em andamento)
 - Pesquisa Acadêmica em Relações Econômicas Internacionais - UNICAMP - (Concluído)
 - Graduação Interdisciplinar Superior (ProFIS) - UNICAMP - (Concluído)
-
-Descrição: O ProFIS é um programa com 120 vagas cujo ingresso é com base nas melhores notas do ENEM.  O currículo do ProFIS inclui disciplinas das áreas de ciências exatas e tecnológicas, distribuídas por dois anos de curso. Com certificado de conclusão de curso sequencial de ensino superior.
-
 - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, UNICAMP - (Concluído)
 
 <code><img height="25" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp"></code>
