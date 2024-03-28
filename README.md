@@ -1,17 +1,19 @@
 ### Olá! Eu sou a Karla Lima! 👋
 
-###### Sobre mim
+###### Sobre mim 
 
-Natural de Campinas-SP, com formação acadêmica diversificada, o que permite solucionar problemas de maneira holística. Entusiasta em tecnologia e apaixonada por ciência de dados.
+👩🏻‍💻 Natural de Campinas-SP, com formação acadêmica diversificada, o que permite solucionar problemas de maneira holística. Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento.
 
 
-###### Minhas formações:
+###### Minhas formações 💻 🎓:
 
 - Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi - (Em andamento)
 - Química Tecnológica (Industrial) - UNICAMP (Em andamento)
 - Pesquisa Acadêmica em Relações Econômicas Internacionais - UNICAMP - (Concluído)
 - Graduação Interdisciplinar Superior (ProFIS) - UNICAMP - (Concluído)
 - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, UNICAMP - (Concluído)
+
+🚀 Tecnologias que uso no meu dia a dia
 
 <code><img height="25" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp"></code>
 <code><img height="25" alt="SQL" src="https://github.com/karlaklima/Image/blob/main/sql%20image.jpeg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
