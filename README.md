@@ -20,6 +20,13 @@
 <code><img height="25" alt="R" src="https://github.com/karlaklima/Image/raw/main/R" class="Link__StyledLink-sc-14289xe-0 dvQLCc"></code>
 <code><img height="25" alt="Power BI" src="https://github.com/karlaklima/Image/blob/main/power%20BI%20.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
 
+<!--  
+O que acrescentar? 
+
+Melhorar texto de apresentacao e deixar visualmente bom 
+Formas de contato
+Inserir os projetos em dashboards 
+
 <!--
 **karlaklima/Karlaklima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
