@@ -3,23 +3,33 @@
 <p>
   <samp>
    <a href="INSERIR LINK DA VERSAO EM INGLES">Read about me (English version)</a> 
- 
-###### Sobre mim 
 
-👩🏻‍💻 Natural de Campinas-SP, com formação acadêmica diversificada, o que permite solucionar problemas de maneira holística. Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento.
+###### 👩🏻‍💻 Business Intelligence em Campinas, São Paulo.
+
+#### Breve Intro:
+
+- ###### 🤓 Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento.
+- ###### ⚡️ Possuo formação acadêmica diversificada, o que permite solucionar problemas de maneira holística.
+
+## Minhas formações: 
+
+##### 🌱 Em andamento 
+
+- Análise e Desenvolvimento de Sistemas - [Universidade Anhembi Morumbi](https://portal.anhembi.br/institucional/)
+- Química Tecnológica - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
 
 
-###### Minhas formações 💻 🎓:
+##### 👩🏻‍🎓Concluído 
 
-- Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi - (Em andamento)
-- Química Tecnológica (Industrial) - UNICAMP (Em andamento)
-- Pesquisa Acadêmica em Relações Econômicas Internacionais - [UNICAMP](https://www.unicamp.br/#gsc.tab=0) - (Concluído)
-- Graduação Interdisciplinar Superior (ProFIS) - UNICAMP - (Concluído)
-- Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, UNICAMP - (Concluído)
+- Graduada em Interdisciplinar Superior [ProFIS](https://www.prg.unicamp.br/curso-profis/) - [UNICAMP](https://www.unicamp.br/#gsc.tab=0) 
+- Pesquisa em Relações Econômicas Internacionais - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
+- High School Researcher - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
 
-🚀 Tecnologias que uso no meu dia a dia
+## 🚀 Tecnologias que uso no meu dia a dia
 
 <code><img height="25" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp"></code>
+<code><img height="25" alt="Java" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp"></code>
+
 <code><img height="25" alt="SQL" src="https://github.com/karlaklima/Image/blob/main/sql%20image.jpeg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
 <code><img height="25" alt="R" src="https://github.com/karlaklima/Image/raw/main/R" class="Link__StyledLink-sc-14289xe-0 dvQLCc"></code>
 <code><img height="25" alt="Power BI" src="https://github.com/karlaklima/Image/blob/main/power%20BI%20.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
