@@ -1,5 +1,9 @@
-### Olá! Eu sou a Karla Lima! 👋
+### Olá, sou a Karla
 
+<p>
+  <samp>
+   <a href="INSERIR LINK DA VERSAO EM INGLES">Read about me (English version)</a> 
+ 
 ###### Sobre mim 
 
 👩🏻‍💻 Natural de Campinas-SP, com formação acadêmica diversificada, o que permite solucionar problemas de maneira holística. Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento.
