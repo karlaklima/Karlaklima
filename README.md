@@ -9,7 +9,7 @@
 
 - Análise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi - (Em andamento)
 - Química Tecnológica (Industrial) - UNICAMP (Em andamento)
-- Pesquisa Acadêmica em Relações Econômicas Internacionais - UNICAMP - (Concluído)
+- Pesquisa Acadêmica em Relações Econômicas Internacionais - [UNICAMP](https://www.unicamp.br/#gsc.tab=0) - (Concluído)
 - Graduação Interdisciplinar Superior (ProFIS) - UNICAMP - (Concluído)
 - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, UNICAMP - (Concluído)
 
