@@ -8,7 +8,7 @@
 
 <p>
   <samp>
-   <a href="INSERIR LINK DA VERSAO EM INGLES">Read about me (English version)</a> 
+   <a href="https://github.com/karlaklima/Karlaklima-English-version">Read about me (English version)</a> 
     
 ## Minhas formações: 
 
@@ -37,21 +37,10 @@
 
 - 📊 [DASHBOARD](INSERIR LINK)
   
-- 📩 I share my weekly learnings on Web Development, Frameworks, Javascript, Design and Books at [gokul.site](https://gokul.site).
 - 📚 Read my book on [Beginner's Guide To Web Security](https://gokul.site/book). Now at 20% off ($8 only), go grab it.
 - 🛠 [Tools I use](http://gokul.site/blog/uses) for web development.
 
-- 📩 Entre em Contato através [LinkedIn](https://www.linkedin.com/in/karla-almeida/) ou [E-mail](mailto:karlalima2000@gmail.com) .
-
-
-<p>
-  <samp>
-.   <a href="https://www.linkedin.com/in/karla-almeida/">Linkedin</a> . 
-
- . [E-mail](mailto:karlalima2000@gmail.com) .
-
-
-
+- 📩 Entre em Contato através [LinkedIn](https://www.linkedin.com/in/karla-almeida/) ou [E-mail](mailto:karlalima2000@gmail.com).
   
 <!--
 **karlaklima/Karlaklima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
