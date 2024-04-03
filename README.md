@@ -4,8 +4,6 @@
 
 📩 Entre em contato através: ・[LinkedIn](https://www.linkedin.com/in/karla-almeida/)・[E-mail](mailto:karlalima2000@gmail.com)
 
-###### 📍 Campinas, São Paulo.
-
 <p>
   <samp>
    <a href="https://github.com/karlaklima/Karlaklima-English-version">Read about me (English version)</a> 
