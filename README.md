@@ -48,6 +48,8 @@
 .   <a href="https://www.linkedin.com/in/karla-almeida/">Linkedin</a> .
    <a href="karlalima2000@gmail.com">E-mail</a> .
  
+[E-mail](mailto:karlalima2000@gmail.com)
+
 
 
   
