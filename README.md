@@ -1,29 +1,28 @@
-### Olá, sou a Karla
+### Olá, sou a Karla Lima
+
+#### Breve Intro:
+
+###### Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento. Possuo formação acadêmica diversificada, o que permite solucionar problemas de maneira holística.
+
+###### 📍 Campinas, São Paulo.
 
 <p>
   <samp>
    <a href="INSERIR LINK DA VERSAO EM INGLES">Read about me (English version)</a> 
-
-###### 👩🏻‍💻 Business Intelligence em Campinas, São Paulo.
-
-#### Breve Intro:
-
-- ###### 🤓 Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento.
-- ###### ⚡️ Possuo formação acadêmica diversificada, o que permite solucionar problemas de maneira holística.
-
+    
 ## Minhas formações: 
 
 ##### 🌱 Em andamento 
 
-- ###### 📚 Análise e Desenvolvimento de Sistemas - [Universidade Anhembi Morumbi](https://portal.anhembi.br/institucional/)
-- ###### 📚 Química Tecnológica - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
+- ###### Análise e Desenvolvimento de Sistemas - [Universidade Anhembi Morumbi](https://portal.anhembi.br/institucional/)
+- ###### Química Tecnológica - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
 
 
 ##### 👩🏻‍🎓 Concluído 
 
-- ###### 📚 Graduada em Interdisciplinar Superior [ProFIS](https://www.prg.unicamp.br/curso-profis/) - [UNICAMP](https://www.unicamp.br/#gsc.tab=0) 
-- ###### 📊 Pesquisa em Relações Econômicas Internacionais - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
-- ###### 📚 High School Researcher - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
+- ###### Graduada em Interdisciplinar Superior [ProFIS](https://www.prg.unicamp.br/curso-profis/) - [UNICAMP](https://www.unicamp.br/#gsc.tab=0) 
+- ###### Pesquisa em Relações Econômicas Internacionais - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
+- ###### High School Researcher - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
 
 ## 🚀 Tecnologias que uso no meu dia a dia
 
@@ -36,19 +35,20 @@
 
 ## 🛠 Confira alguns dos meus projetos:
 
-
+- 📊 [DASHBOARD](INSERIR LINK)
+  
 - 📩 I share my weekly learnings on Web Development, Frameworks, Javascript, Design and Books at [gokul.site](https://gokul.site).
 - 📚 Read my book on [Beginner's Guide To Web Security](https://gokul.site/book). Now at 20% off ($8 only), go grab it.
 - 🛠 [Tools I use](http://gokul.site/blog/uses) for web development.
-- 💬 Ask me about anything [here](https://github.com/gokulkrishh/gokulkrishh/issues).
 
-- 📩 Entre em Contato através: 
+- 📩 Entre em Contato através [LinkedIn](https://www.linkedin.com/in/karla-almeida/) ou [E-mail](mailto:karlalima2000@gmail.com) .
+
+
 <p>
   <samp>
-.   <a href="https://www.linkedin.com/in/karla-almeida/">Linkedin</a> .
-   <a href="karlalima2000@gmail.com">E-mail</a> .
- 
-[E-mail](mailto:karlalima2000@gmail.com)
+.   <a href="https://www.linkedin.com/in/karla-almeida/">Linkedin</a> . 
+
+ . [E-mail](mailto:karlalima2000@gmail.com) .
 
 
 
