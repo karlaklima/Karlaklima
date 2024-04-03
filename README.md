@@ -1,8 +1,8 @@
 ### Olá, sou a Karla Lima
 
-#### Breve Intro:
+###### Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento. Possuo formação acadêmica diversificada, o que me permite solucionar problemas de maneira holística.
 
-###### Fascinada por tecnologia e apaixonada por ciência de dados e desenvolvimento. Possuo formação acadêmica diversificada, o que permite solucionar problemas de maneira holística.
+📩 Entre em contato através: ・ [LinkedIn](https://www.linkedin.com/in/karla-almeida/)・[E-mail](mailto:karlalima2000@gmail.com)
 
 ###### 📍 Campinas, São Paulo.
 
@@ -26,33 +26,15 @@
 
 ## 🚀 Tecnologias que uso no meu dia a dia
 
-<code><img height="35" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp"></code>
+<code><img height="35" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp?token=GHSAT0AAAAAACPXY6JJEDVS6DJQIBTWZHI6ZQNLHNA"></code>
 <code><img height="35" alt="Java" src="https://github.com/karlaklima/Image/blob/main/JavaScript.png"></code>
 <code><img height="35" alt="SQL" src="https://github.com/karlaklima/Image/blob/main/sql%20image.jpeg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
 <code><img height="35" alt="R" src="https://github.com/karlaklima/Image/raw/main/R" class="Link__StyledLink-sc-14289xe-0 dvQLCc"></code>
 <code><img height="35" alt="Power BI" src="https://github.com/karlaklima/Image/blob/main/power%20BI%20.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
 <code><img height="35" alt="Notion" src="https://github.com/karlaklima/Image/blob/main/notion.jpeg"></code>
 
-## 🛠 Confira alguns dos meus projetos:
+## 🛠 [Confira alguns dos meus projetos:](https://github.com/karlaklima/Portfolio-Power-BI)
 
-- 📊 [DASHBOARD](INSERIR LINK)
+- 📊 [PBI_Monitoramento de Inteligência Operacional Companhia Aérea](https://app.powerbi.com/reportEmbed?reportId=0bf0310b-4152-4a9a-a55f-fcebd35130c0&autoAuth=true&ctid=a8e697b5-5434-490b-bced-0cc978d2a33c)
+- 📊 [PBI_Monitoramento Perfil do Público](https://app.powerbi.com/reportEmbed?reportId=96598048-097c-4b0e-834f-5a45c6d53d27&autoAuth=true&ctid=a8e697b5-5434-490b-bced-0cc978d2a33c)
   
-- 📚 Read my book on [Beginner's Guide To Web Security](https://gokul.site/book). Now at 20% off ($8 only), go grab it.
-- 🛠 [Tools I use](http://gokul.site/blog/uses) for web development.
-
-- 📩 Entre em Contato através [LinkedIn](https://www.linkedin.com/in/karla-almeida/) ou [E-mail](mailto:karlalima2000@gmail.com).
-  
-<!--
-**karlaklima/Karlaklima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
