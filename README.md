@@ -26,7 +26,7 @@
 
 ## 🚀 Tecnologias que uso no meu dia a dia
 
-<code><img height="35" alt="Python" src="https://raw.githubusercontent.com/karlaklima/Image/main/python%20jpn%20.webp?token=GHSAT0AAAAAACPXY6JJEDVS6DJQIBTWZHI6ZQNLHNA"></code>
+<code><img height="35" alt="Python" src="https://github.com/karlaklima/Image/blob/main/imagem_2024-04-03_103936346.png"></code>
 <code><img height="35" alt="Java" src="https://github.com/karlaklima/Image/blob/main/JavaScript.png"></code>
 <code><img height="35" alt="SQL" src="https://github.com/karlaklima/Image/blob/main/sql%20image.jpeg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></code>
 <code><img height="35" alt="R" src="https://github.com/karlaklima/Image/raw/main/R" class="Link__StyledLink-sc-14289xe-0 dvQLCc"></code>
