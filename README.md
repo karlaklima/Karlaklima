@@ -10,14 +10,8 @@
     
 ## Minhas formações: 
 
-##### 🌱 Em andamento 
-
 - ###### Análise e Desenvolvimento de Sistemas - [Universidade Anhembi Morumbi](https://portal.anhembi.br/institucional/)
 - ###### Química Tecnológica - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
-
-
-##### 👩🏻‍🎓 Concluído 
-
 - ###### Graduada em Interdisciplinar Superior [ProFIS](https://www.prg.unicamp.br/curso-profis/) - [UNICAMP](https://www.unicamp.br/#gsc.tab=0) 
 - ###### Pesquisa em Relações Econômicas Internacionais - [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
 - ###### High School Researcher - Pesquisa Científica Férias de Verão Ensino Médio - Ciência e Arte, [UNICAMP](https://www.unicamp.br/#gsc.tab=0)
