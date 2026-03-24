@@ -2,7 +2,7 @@
 
 ###### Fascinada por tecnologia e apaixonada por dados e desenvolvimento. Possuo formação acadêmica diversificada, o que me permite solucionar problemas de maneira holística.
 
-📩 Entre em contato através: ・[LinkedIn](https://www.linkedin.com/in/karla-almeida/)・[E-mail](mailto:karlalima2000@gmail.com)
+📩 Entre em contato através: ・[LinkedIn](https://www.linkedin.com/in/karla-almeida/)・[E-mail](mailto:karlalima.contato@gmail.com)
 
 <p>
   <samp>
