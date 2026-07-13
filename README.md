@@ -96,6 +96,7 @@ Clusterização · Regressão · Forecasting · Análise de Churn/Cohort
  
 ### 🛠 Projetos em Destaque
  
+- 🛠 [Mecanismo de Qualidade de Domínio de E-mail](https://github.com/karlaklima/email-domain-quality-engine)
 - 📁 [Portfolio Power BI](https://github.com/karlaklima/Portfolio-Power-BI) — dashboards e análises de inteligência operacional
 - 📊 [Monitoramento de Inteligência Operacional — Companhia Aérea](https://app.powerbi.com/reportEmbed?reportId=0bf0310b-4152-4a9a-a55f-fcebd35130c0&autoAuth=true&ctid=a8e697b5-5434-490b-bced-0cc978d2a33c)
 - 📊 [Monitoramento de Perfil do Público](https://app.powerbi.com/reportEmbed?reportId=96598048-097c-4b0e-834f-5a45c6d53d27&autoAuth=true&ctid=a8e697b5-5434-490b-bced-0cc978d2a33c)
